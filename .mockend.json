@@ -1,0 +1,202 @@
+ [
+      {
+        "id": "1",
+        "nombre": "COMERCIO 1 numeroidentificacion ",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 1,
+        "codigoestado": "A",
+        "usuariomodificacion": "COMERCIO 1 numeroidentificacion ",
+        "fechamodificacion": "COMERCIO 1 numeroidentificacion "
+      },
+      {
+        "id": "2",
+        "nombre": "COMERCIO 2",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 1,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "3",
+        "nombre": "COMERCIO 3",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 1,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "4",
+        "nombre": "COMERCIO 4",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 1,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "5",
+        "nombre": "COMERCIO 5",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 1,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "6",
+        "nombre": "COMERCIO 6",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 2,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "7",
+        "nombre": "COMERCIO 7",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 2,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "8",
+        "nombre": "COMERCIO 8",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 2,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "9",
+        "nombre": "COMERCIO 9",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 2,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "10",
+        "nombre": "COMERCIO 10",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 2,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "11",
+        "nombre": "COMERCIO 11",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 3,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "12",
+        "nombre": "COMERCIO 12",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 3,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "13",
+        "nombre": "COMERCIO 13",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 3,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "14",
+        "nombre": "COMERCIO 14",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 3,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "15",
+        "nombre": "COMERCIO 15",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 3,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "16",
+        "nombre": "COMERCIO 16",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 4,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "17",
+        "nombre": "COMERCIO 17",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 5,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "18",
+        "nombre": "COMERCIO 18",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 5,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "19",
+        "nombre": "COMERCIO 19",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 5,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      },
+      {
+        "id": "20",
+        "nombre": "COMERCIO 20",
+        "tipoidentificacion": "RUC",
+        "numeroidentificacion": "1234567890001",
+        "codigoregion": 5,
+        "codigoestado": "A",
+        "usuariomodificacion": "",
+        "fechamodificacion": ""
+      }
+    ];
